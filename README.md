@@ -37,3 +37,6 @@ I'll start off by using DrRacket IDE as the programming environment of choice.
 - [ ] 3. Modularity, Objects, and State
 - [ ] 4. Metalinguistic Abstraction
 - [ ] 5. Computing with Register Machines
+
+Latest MIT lecture watched: 1B
+Latest UCB lecture watched: 2
