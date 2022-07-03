@@ -30,13 +30,13 @@ I'll start off by using DrRacket IDE as the programming environment of choice.
   - [x] 1.1 The Elements of Programming
   - [x] 1.2 Procedures and the Processes They Generate
   - [ ] 1.3 Formulating Abstractions with Higher-Order Procedures
-    - [ ] Book
-    - [ ] Lectures
+    - [x] Book
+    - [x] Lectures
     - [ ] Exercises
 - [ ] 2. Building Abstractions with Data
 - [ ] 3. Modularity, Objects, and State
 - [ ] 4. Metalinguistic Abstraction
 - [ ] 5. Computing with Register Machines
 
-Latest MIT lecture watched: 1B
+Latest MIT lecture watched: 2A
 Latest UCB lecture watched: 2
