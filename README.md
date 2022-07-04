@@ -26,14 +26,16 @@ I'll start off by using DrRacket IDE as the programming environment of choice.
 
 ## Progress
 
-- [ ] 1. Building Abstractions with Procedures
-  - [x] 1.1 The Elements of Programming
-  - [x] 1.2 Procedures and the Processes They Generate
-  - [ ] 1.3 Formulating Abstractions with Higher-Order Procedures
-    - [x] Book
-    - [x] Lectures
-    - [ ] Exercises
+- [x] 1. Building Abstractions with Procedures
 - [ ] 2. Building Abstractions with Data
+  - [ ] 2.1 Introduction to Data Abstraction
+    - [ ] Book
+    - [ ] Lectures
+    - [ ] Exercises
+  - [ ] 2.2 Hierarchical Data and the Closure Property
+  - [ ] 2.3 Symbolic Data
+  - [ ] 2.4 Multiple Representations for Abstract Data
+  - [ ] 2.5 Systems with Generic Operations
 - [ ] 3. Modularity, Objects, and State
 - [ ] 4. Metalinguistic Abstraction
 - [ ] 5. Computing with Register Machines
