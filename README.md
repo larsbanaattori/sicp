@@ -28,11 +28,11 @@ I'll start off by using DrRacket IDE as the programming environment of choice.
 
 - [x] 1. Building Abstractions with Procedures
 - [ ] 2. Building Abstractions with Data
-  - [ ] 2.1 Introduction to Data Abstraction
+  - [x] 2.1 Introduction to Data Abstraction
+  - [ ] 2.2 Hierarchical Data and the Closure Property
     - [ ] Book
     - [ ] Lectures
     - [ ] Exercises
-  - [ ] 2.2 Hierarchical Data and the Closure Property
   - [ ] 2.3 Symbolic Data
   - [ ] 2.4 Multiple Representations for Abstract Data
   - [ ] 2.5 Systems with Generic Operations
@@ -41,4 +41,5 @@ I'll start off by using DrRacket IDE as the programming environment of choice.
 - [ ] 5. Computing with Register Machines
 
 Latest MIT lecture watched: 2A
+
 Latest UCB lecture watched: 2
