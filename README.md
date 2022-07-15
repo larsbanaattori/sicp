@@ -40,6 +40,6 @@ I'll start off by using DrRacket IDE as the programming environment of choice.
 - [ ] 4. Metalinguistic Abstraction
 - [ ] 5. Computing with Register Machines
 
-Latest MIT lecture watched: 3A
+Latest MIT lecture watched: 3B
 
 Latest UCB lecture watched: 2
