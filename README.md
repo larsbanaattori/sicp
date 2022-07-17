@@ -29,11 +29,11 @@ I'll start off by using DrRacket IDE as the programming environment of choice.
 - [x] 1. Building Abstractions with Procedures
 - [ ] 2. Building Abstractions with Data
   - [x] 2.1 Introduction to Data Abstraction
-  - [ ] 2.2 Hierarchical Data and the Closure Property
+  - [x] 2.2 Hierarchical Data and the Closure Property
+  - [ ] 2.3 Symbolic Data
     - [ ] Book
     - [ ] Lectures
     - [ ] Exercises
-  - [ ] 2.3 Symbolic Data
   - [ ] 2.4 Multiple Representations for Abstract Data
   - [ ] 2.5 Systems with Generic Operations
 - [ ] 3. Modularity, Objects, and State

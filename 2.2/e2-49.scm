@@ -37,11 +37,6 @@
              (cadr vectors))
             (vectors->segments (cdr vectors)))))
 
-(vectors->segments
- (list (make-vect 0.25 0)
-       (make-vect 0.3 0.5)
-       (make-vect 0.25 0.6)))
-
 (define wave
   (segments->painter
    (append
