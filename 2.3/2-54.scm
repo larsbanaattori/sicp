@@ -1,0 +1,36 @@
+#lang sicp
+
+(define (equal? l1 l2)
+  (cond ((and (null? l1) (null? l2))
+         #t)
+        ((and (number? l1) (number? l2))
+         (= l1 l2))
+        ((and (symbol? l1) (symbol? l2))
+         (eq? l1 l2))
+        ((and (pair? l1) (pair? l2))
+         (and
+          (equal? (car l1) (car l2))
+          (equal? (cdr l1) (cdr l2))))
+        (else
+         #f)))
+
+(define (test x y truth)
+  (if (eq? (equal? x y) truth)
+      (display 'ok)
+      (display 'ERROR))
+  (newline))
+
+(test '(this is a list)
+      '(this is a list)
+      true)
+(test '(this is a list)
+      '(this (is a) list)
+      false)
+(test 'a '(a) false)
+(test 'a 'a true)
+(test '(1 (2 (3 4)))
+      '(1 (2 (3 4)))
+      true)
+(test '(1 (2 3 4))
+      '(1 (2 (3 4)))
+      false)
